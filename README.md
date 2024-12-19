@@ -1,5 +1,5 @@
-# Obstacle_Robot
-The **All_in_One_Robot_2.ino** file is Arduino code for a robot using motor drivers, IR, ultrasonic sensors, and a servo. It includes libraries for Bluetooth and IR control. Functions handle motor speed, obstacle detection, and modes like manual or autonomous. It’s modular and easily customizable.
+# Humun_Following_Robo
+The **Humun_Following_Robo_2.ino** file is Arduino code for a robot using motor drivers, IR, ultrasonic sensors, and a servo. It includes libraries for Bluetooth and IR control. Functions handle motor speed, obstacle detection, and modes like manual or autonomous. It’s modular and easily customizable.
 The All_in_One_Robot_2.ino file contains Arduino code designed to control a multifunctional robot. It incorporates various hardware components and libraries to enable features like motor control, sensor readings, and communication. Key elements include:
 
 Libraries:
